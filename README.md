@@ -1,2 +1,13 @@
 # remote-voting-blockchain
-Hyperledger Fabric (Blockchain) implementation of electronic voting.
+Hyperledger Fabric (Blockchain) implementation of electronic (remote) voting.
+
+# Problem Statement
+We will be creating a web app on which will be backed by (Blockchain) Hyperledger Fabric through which on can cast vote. All the properties of physical voting will stay intact.
+
+# Tech Stack
+MERN for the web application.
+<br>
+Hyperledger Fabric (v2.2.x) for the ledger.
+
+# Maintainers
+Currently it is the responsibility of @pratikpatil024 to keep the quality intact and drive the vision in the proper direction of this repository.
