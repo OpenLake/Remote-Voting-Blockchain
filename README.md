@@ -2,7 +2,7 @@
 Hyperledger Fabric (Blockchain) implementation of electronic (remote) voting.
 
 # Problem Statement
-We will be creating a web app on which will be backed by (Blockchain) Hyperledger Fabric through which on can cast vote. All the properties of physical voting will stay intact.
+We will be creating a web app which will be backed by (Blockchain) Hyperledger Fabric through which one can cast vote remotely. All the properties of physical voting will stay intact.
 
 # Tech Stack
 MERN for the web application.
