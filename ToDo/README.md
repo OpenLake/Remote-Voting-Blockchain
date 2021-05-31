@@ -1,7 +1,7 @@
 # Design #
 1. Create a structure of a website and update it in the README at ```../Design/``` location.
 <br>
-You should try to think of the website as a sequence of pages (for example the first page should be the login page/register page, the maybe a sequence of pages to vote for each post and at the end verifying the voted candidates and then, submit).
+You should try to think of the website as a sequence of pages (for example the first page should be the login page/register page, then maybe a sequence of pages to vote for each post and at the end verifying the voted candidates and then, submit).
 
 # Website #
 1. Initialize a basic React web application by executing this ```npx create-react-app VotingApp``` command at ```../WebApp/``` location.
