@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  
+}
+
+
+body 
+{
+    
+  
+  background: #232427;
+    
+}
+table td, table tr
+{ border-collapse: collapse;
+  padding: 10px;
+  color: white;
+}
+.table
+{
+    background-color: #fff; 
+    color: white;
+}
+nav
+{
+   background: linear-gradient(90deg, #B24592, #F15F79);
+    padding: 1rem;
+    margin-bottom: 5px;
+}
+nav ul
+{
+    list-style: none;
+}
+
+nav ul li 
+{
+    display: inline;
+}
+nav ul li a 
+{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 8px 20px;
+}
+nav ul li a:hover
+{
+    background-color: #F0F0F0;
+}
+.page-wrapper
+{
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.login-panel, .register-panel
+{
+    padding: 20px 20px 50px 20px;
+    
+    box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+}
+.login-panel
+{
+    float: left;
+}
+.register-panel
+{
+    float: right;
+}
+  
+
+input[type="text"], input[type="password"],input[type="email"]
+{
+    padding: 8px 5px;
+    margin: 0 0 5px 5px;
+    min-width: 270px;
+    font-size: 1.05em;
+    background-color: #D3D3D3;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+input[type="submit"]
+{
+    float: right;
+    padding: 7px 20px;
+    font-size: 1.06em;
+    background-color: #0796cf;
+    color: #fff;
+    border: 1px solid #0285b9;
+    cursor: pointer;
+    margin-top: 4px;
+    border-radius: 15px;
+}
+input[type="text"]:focus , input[type="password"]:focus {
+    background-color:#fff;
+}
+input[type="submit"]:hover
+{
+    background-color: #0fa3dd;
+    border-color: 1px solid #098ec2;
+}
+.error
+{
+    background-color: rgb(248, 203, 203);
+    border: 1px solid rgb(245, 87, 87);
+    color: rgb(245, 49, 49);
+    padding: 10px 15px;
+}
+
+.dashboard
+{
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.user-post-area
+{
+    padding: 20px 0;
+}
+form
+{
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+textarea
+{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    padding: 10px;
+    resize: vertical;   
+}
+
+.post 
+{
+    padding: 20px;
+    border: 1px solid #bbb;
+    color: #888;
+    margin-bottom: 5px;
+}
+p 
+{
+    padding: 10px;
+}
+.greeting
+{
+    color: #222;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(252,252,252,1) 0%, rgba(0,212,255,1) 100%);
+    
+    padding: 1em;
+}
+.greeting span
+{
+    color: rgb(112, 172, 16);
+}

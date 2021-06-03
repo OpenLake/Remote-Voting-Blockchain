@@ -1,0 +1,26 @@
+{
+  "name": "uitrialaws",
+  "version": "1.0.0",
+  "description": "nodejsandreactjs login and registration form",
+  "main": "app.js",
+  "dependencies": {
+    "prismic-reactjs": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananyaiitbhilai/UIawsTrial.git"
+  },
+  "keywords": [
+    "loginandregPortal"
+  ],
+  "author": "Ananyaiitbhilai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananyaiitbhilai/UIawsTrial/issues"
+  },
+  "homepage": "https://github.com/Ananyaiitbhilai/UIawsTrial#readme"
+}
