@@ -10,3 +10,4 @@ We will be creating a web app which will be backed by (Blockchain) Hyperledger F
 
 # Maintainers
 Currently it is the responsibility of @pratikpatil024 to keep the quality intact and drive the vision in the proper direction of this repository.
+update
