@@ -1,0 +1,38 @@
+{
+  "name": "login-register",
+  "version": "1.0.0",
+  "description": "Simple Login/Register app in nodejs with mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofianChouaib/Login-Register-Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "login",
+    "register",
+    "mysql",
+    "app"
+  ],
+  "author": "Sofiane Chouaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SofianChouaib/Login-Register-Nodejs/issues"
+  },
+  "homepage": "https://github.com/SofianChouaib/Login-Register-Nodejs#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "prismic-reactjs": "^1.3.3",
+    "pug": "^3.0.0",
+    "util.promisify": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
