@@ -13,11 +13,11 @@ This is the easiest task, hurry up and create a PR.
 As of now, assume that there are 5 posts and each post have 3 candidates. We will worry about making this dynamic later.
 
 # Blockchain (Fabric) Network #
-1. Create a FAbric network with 1 Org, 1 peer, 1 channel, Raft mechanism at ```../Network/``` location.
+1. Create a Fabric network with 1 Org, 1 peer, 1 channel, Raft mechanism at ```../Network/``` location.
 
 # README #
 1. Update, beautify, correct grammatical mistakes in all the README files.
 
 <br>
 
-**If you have any suggestion, free to update the appropriate README or contact [PRATIK](https://github.com/pratikpatil024).**
+**If you have any suggestions, feel free to update the appropriate README or contact [PRATIK](https://github.com/pratikpatil024).**
