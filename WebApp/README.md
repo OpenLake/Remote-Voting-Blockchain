@@ -1,7 +1,7 @@
 # Email-verification
 
 ## Introduction
-This is a user authentication page made using MERN Stack & Redux.
+This is a user authentication Webapp made using MERN Stack & Redux.
 
 -You can login with either email or directly with Google account
 
